@@ -36,6 +36,15 @@ Wir machen Ihr Unternehmen fit für die digitale Zukunft – effizient, professi
 
 ---
 
+## 🏆 Unsere Referenzen  
+Wir sind stolz darauf, bereits viele zufriedene Kunden aus verschiedenen Branchen zu betreuen. Hier einige unserer Projekte:
+
+- [MAGIN Elektrotechnik GmbH](https://maginelektrotechnik.de)  
+- [PMC Eesti](https://ilollek.net/pmc-eesti)  
+- [Division Dubbeglas](https://division-dubbeglas.de)
+
+---
+
 ## ⚙️ So arbeiten wir – Ihr Projektablauf bei iLollek Industries
 
 1. **Ihre Idee**  
@@ -66,4 +75,96 @@ Am Ende steht eine perfekt auf Sie zugeschnittene digitale Lösung, die Ihr Unte
 
 ---
 
+## Nachträgliche Änderungen & Supportgarantie
 
+Bei iLollek Industries endet der Service nicht mit der Fertigstellung Ihres Projekts. Wir bieten Ihnen eine **kostenfreie Supportgarantie über 2 Jahre** – damit Sie langfristig sorgenfrei bleiben.
+
+### Was ist in der Supportgarantie enthalten?
+
+- **Kostenfreie Änderungen, die für den Betrieb der Website nötig sind:**  
+  Zum Beispiel technische Updates, Fehlerbehebungen oder Sicherheitsanpassungen übernehmen wir selbstverständlich ohne Berechnung.
+
+- **Kulanz bei kleineren Änderungen:**  
+  Möchten Sie z.B. Texte anpassen, Bilder einfügen, ändern oder entfernen, erledigen wir das kostenfrei für Sie.
+
+### Wie gehen wir mit größeren Änderungen um?
+
+- Änderungen, die über kleine Anpassungen hinausgehen, z.B. eine komplett neue Seite oder eine Änderung der Seitenstruktur bzw. des Layouts, sind nicht in der kostenlosen Supportgarantie enthalten.  
+- Solche größeren Anpassungen führen wir gegen eine geringe Gebühr durch, die sich meist im Bereich von **10 bis 50 Euro** bewegt – je nach Aufwand.
+
+### Was passiert nach Ablauf der 2 Jahre?
+
+- Nach Ablauf der 2 Jahre Supportgarantie kann diese auf Wunsch kostenpflichtig verlängert werden.  
+- Den Preis für eine Verlängerung legen wir gemeinsam fest – auf Wunsch auch bereits vor Ablauf der Garantiezeit, damit Sie volle Kostenkontrolle behalten.
+
+---
+
+### So sorgen wir für Ihre langfristige Zufriedenheit
+
+Unser Ziel ist es, dass Sie Ihre Website „einfach vergessen“ können, weil wir uns zuverlässig um alles kümmern. Gleichzeitig sind wir flexibel und bieten Ihnen transparente Konditionen für alle weiteren Wünsche und Anpassungen.
+
+---
+
+# FAQ – Häufig gestellte Fragen
+
+**1. Wie schnell kann meine Website fertiggestellt werden?**  
+Je nach Umfang dauert die Entwicklung einer einfachen Website meist zwischen 2 und 4 Wochen. Größere Projekte besprechen wir individuell mit Ihnen.
+
+**2. Was kostet eine Website bei iLollek Industries?**  
+Eine einfache, SEO-optimierte und mobile-freundliche Website erhalten Sie bereits ab ca. 130 €. Unsere Preise basieren auf transparenten Stundensätzen.
+
+**3. Wie läuft der Projektprozess ab?**  
+Wir starten mit Ihrer Idee, planen gemeinsam, erstellen ein Angebot, entwickeln die Lösung, führen eine Qualitätsprüfung durch, und nach Ihrer Abnahme bringen wir die Website online. Während des gesamten Prozesses sind wir in engem Austausch mit Ihnen.
+
+**4. Was passiert nach Fertigstellung der Website?**  
+Sie erhalten eine 2-jährige kostenfreie Supportgarantie. Kleinere Anpassungen wie Text- oder Bildänderungen sind kostenlos. Größere Änderungen werden nach Aufwand berechnet.
+
+**5. Wie erreiche ich Sie bei Fragen oder Problemen?**  
+Wir sind jederzeit per E-Mail erreichbar und antworten schnellstmöglich. Telefonisch sind wir montags bis freitags von 16:00 bis 20:00 Uhr für Sie da.
+
+**6. Wie viele kostenfreie Revisionen sind im Projekt enthalten?**  
+Standardmäßig sind drei kostenfreie Revisionen während der Entwicklungsphase enthalten. Weitere Änderungen können nach Absprache kostenpflichtig sein.
+
+**7. Können Sie auch individuelle Softwarelösungen entwickeln?**  
+Ja, neben Websites erstellen wir auch maßgeschneiderte Software, Discord-Bots und Automatisierungen nach Ihren Anforderungen.
+
+**8. Welche Technologien verwenden Sie?**  
+Wir arbeiten mit modernen Webtechnologien wie HTML, CSS, JavaScript, PHP, MySQL und weiteren, abhängig von Ihrem Projekt.
+
+**9. Bieten Sie Schulungen an?**  
+Ja, wir bieten Schulungen für Einzelpersonen und Gruppen an, damit Sie Ihre neue Website oder Software optimal nutzen können.
+
+**10. Was ist, wenn ich nach Ablauf der Supportgarantie weitere Änderungen möchte?**  
+Sie können die Supportgarantie kostenpflichtig verlängern. Die Konditionen legen wir gemeinsam fest, damit Sie volle Kostenkontrolle behalten.
+
+**11. Warum sind Ihre Preise günstiger als bei anderen Anbietern?**  
+Wir sind ein kleines, engagiertes Team aus IT-Auszubildenden, das iLollek Industries neben der Ausbildung betreibt. Dadurch haben wir geringere Fixkosten als große Agenturen und können Ihnen faire Stundensätze anbieten, ohne dass die Qualität leidet.
+
+**12. Wie lange dauert es, bis ich ein Angebot erhalte?**  
+In der Regel erhalten Sie unser individuelles Angebot innerhalb von 2 bis 3 Werktagen nach unserem gemeinsamen Gespräch oder Ihrer Anfrage.
+
+**13. Übernehmen Sie auch die Registrierung der Domain?**  
+Ja, wir kümmern uns um die komplette Domain-Registrierung und alle notwendigen administrativen Schritte – so müssen Sie sich um nichts kümmern.
+
+**14. Wo wird meine Website gehostet?**  
+Wir hosten Ihre Website bei unserem zuverlässigen Partner, der NetCup GmbH in Karlsruhe. Dort sorgen wir für sichere, performante Server und übernehmen für Sie die komplette Verwaltung des Hostings.
+
+**15. Was passiert, wenn ich meine Website erweitern oder verändern möchte?**  
+Nach der 2-jährigen kostenfreien Supportgarantie können Sie Änderungen gegen eine kleine Gebühr in Auftrag geben. Für größere Erweiterungen erstellen wir gern ein individuelles Angebot.
+
+**16. Bieten Sie auch E-Commerce-Lösungen (Onlineshops) an?**  
+Derzeit konzentrieren wir uns auf klassische Websites und individuelle Softwarelösungen ohne Onlineshops. Sie können uns aber trotzdem gern kontaktieren.
+
+**17. Kann ich die Website später selbst bearbeiten?**  
+Je nach Projekt setzen wir Content-Management-Systeme wie WordPress oder Typo3 ein, mit denen Sie Inhalte einfach selbst ändern können. Gerne bieten wir auch Schulungen an.
+
+**18. Wie läuft die Qualitätssicherung (QA) ab?**  
+Nach Fertigstellung präsentieren wir Ihnen das Projekt und gehen gemeinsam alle Funktionen durch. Dabei testen wir alle Features gründlich, bis das Ergebnis Ihren Erwartungen entspricht.
+
+**19. Was passiert, wenn ich mit dem Ergebnis nicht zufrieden bin?**  
+Wir haben drei kostenfreie Revisionen im Angebot, um Änderungswünsche umzusetzen. Sollte darüber hinaus noch Bedarf bestehen, sprechen wir die nächsten Schritte transparent mit Ihnen ab.
+
+**20. Bieten Sie auch Beratung zur Digitalisierung meines Unternehmens an?**  
+Ja, wir unterstützen Sie gerne dabei, digitale Prozesse zu planen und umzusetzen – von der Website über Softwarelösungen bis hin zu IT-Infrastruktur, KI und Automatisierung.
+
+---
