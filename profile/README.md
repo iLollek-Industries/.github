@@ -1,6 +1,8 @@
 # iLollek Industries  
 *We bring your technological visions to life!*
 
+![iLollek Industries Logo](Cropped_LOGO.png)
+
 ---
 
 ## 🚀 Unsere Leistungen  
